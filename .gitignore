@@ -1,0 +1,5 @@
+# Local preview and document-review files
+tmp/
+
+# macOS
+.DS_Store
